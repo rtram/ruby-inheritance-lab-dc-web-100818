@@ -4,7 +4,7 @@ class Student < User
 
 
   def initialize
-  KNOWLEDGE = []
+  knowledge = []
   end
 
 end
